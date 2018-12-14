@@ -1,1 +1,1 @@
-# Microsoft-AI-Challenge-2018
+# Microsoft AI Challenge 2018
